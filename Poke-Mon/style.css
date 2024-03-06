@@ -1,0 +1,202 @@
+body {
+   background-color: white;
+   padding: 0;
+   margin: 0;
+}
+
+
+
+
+.maindiv {
+   background-color: white;
+   /* border: 2px solid black; */
+   box-shadow: 2px 2px 2px rgb(151, 140, 140);
+   text-align: center;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+   height: px;
+   padding: 0 200px;
+
+}
+
+.icon {
+   background-color: #ffffff;
+   padding: 30px 48px;
+   color: rgb(107, 105, 103);
+   /* justify-content: center;
+    align-items: center; */
+
+}
+
+.one {
+
+   border-bottom: 5px solid rgb(137, 138, 135);
+}
+
+.one:hover {
+   background-color: rgb(137, 138, 135);
+}
+
+.two {
+
+   border-bottom: 5px solid rgb(243, 6, 6);
+}
+
+.two:hover {
+   background-color: rgb(243, 6, 6);
+}
+
+.three {
+
+   border-bottom: 5px solid rgb(6, 243, 26);
+}
+
+.three:hover {
+   background-color: rgb(6, 243, 26);
+}
+
+.four {
+
+   border-bottom: 5px solid rgb(243, 6, 184);
+}
+
+.four:hover {
+   background-color: rgb(243, 6, 184);
+}
+
+.five {
+
+   border-bottom: 5px solid rgb(55, 99, 110);
+}
+
+.five:hover {
+   background-color: rgb(55, 99, 110);
+}
+
+.six {
+
+   border-bottom: 5px solid rgb(188, 6, 243);
+}
+
+.six:hover {
+   background-color: rgb(188, 6, 243);
+}
+
+.seven {
+
+   border-bottom: 5px solid rgb(0, 224, 224);
+}
+
+.seven:hover {
+   background-color: rgb(0, 224, 224);
+}
+
+#second {
+   height: 30px;
+   width: 30px;
+   color: white;
+   fill: white;
+}
+
+#three {
+   height: 30px;
+   width: 30px;
+   color: white;
+   fill: white;
+}
+
+img {
+   width: 1100px;
+   height: 1000px;
+   margin-left: 130px;
+   margin-right: 130px;
+   box-shadow: 2px 2px 2px 2px rgb(151, 140, 140);
+}
+
+/* .card_one {
+   height: 50px;
+   width: 50px;
+
+} */
+
+.img-container {
+   background-image: url(images/background\ image.jpg);
+   /* background-color:rgb(3, 185, 3); */
+   border: 2px solid black;
+   height: 700px;
+   margin-left: 130px;
+   margin-right: 130px;
+
+}
+
+div.card {
+   /* background-image: url(images/dragon.jpeg); */
+   background-color: rgb(75, 175, 175);
+   border: 2px solid rgb(250, 249, 249);
+   height: 550px;
+   width: 400px;
+   margin-left: 180px;
+   margin-top: 70px;
+   box-shadow: 2px 2px 2px rgb(58, 57, 57);
+
+}
+
+div.image {
+   height: 300px;
+   width: 375px;
+   /* background-color:rgb(84, 238, 24); */
+   border: 4px solid rgb(240, 240, 240);
+   background-image: url(images/dragon.jpeg);
+   margin-left: 10px;
+   margin-top: 10px;
+   border-radius: 5px;
+   box-shadow: 2px 2px 2px rgb(58, 57, 57);
+
+}
+
+div.para {
+   margin-left: 10px;
+}
+
+div.discript {
+   margin-left: 10px;
+}
+
+/* footer */
+
+.main-footer {
+   background-color: black;
+   border: 2px solid white;
+   height: 280px;
+   width: 1100px;
+   margin-top: 100px;
+   margin-left: 0px;
+}
+
+div.box1 {
+   color: white;
+   margin-left: 10px;
+}
+
+input {
+   height: 30px;
+   width: 300px;
+}
+
+select {
+   height: 35px;
+   width: 150px;
+
+}
+
+.input2 {
+   height: 30px;
+   width: 145px;
+}
+
+button {
+   height: 45px;
+   width: 120px;
+}
